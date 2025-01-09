@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Latihan Tflite (prediction)</string>
+    <string name="firebaseml_model_download_failed">Model download failde, please check your Connection</string>
+    <string name="gcm_defaultSenderId" translatable="false">362169794109</string>
+    <string name="google_api_key" translatable="false">AIzaSyAkr3qrBnfi8aQlWmDji0HOHjrwtZbE6mM</string>
+    <string name="google_app_id" translatable="false">1:362169794109:android:d846424040a75261f67454</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAkr3qrBnfi8aQlWmDji0HOHjrwtZbE6mM</string>
+    <string name="google_storage_bucket" translatable="false">fir-ml-dicoding-7843a.firebasestorage.app</string>
+    <string name="no_tflite_interpreter_loaded">No TfLite interpreter loaded</string>
+    <string name="predict">Prediksi Stok Bulan depan</string>
+    <string name="project_id" translatable="false">fir-ml-dicoding-7843a</string>
+    <string name="rice_stock_predictor">Rice Stock Predictor</string>
+    <string name="sales_this_month">Isi penjualan bulan ini (dalam Kg)</string>
+    <string name="tflite_is_not_initialized_yet">TfLite is not initialized yet</string>
+    <style name="Base.Theme.LatihanTfliteprediction" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.LatihanTfliteprediction" parent="Base.Theme.LatihanTfliteprediction"/>
+</resources>

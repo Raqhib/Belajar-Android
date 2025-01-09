@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">362169794109</string>
+    <string name="google_api_key" translatable="false">AIzaSyAkr3qrBnfi8aQlWmDji0HOHjrwtZbE6mM</string>
+    <string name="google_app_id" translatable="false">1:362169794109:android:d846424040a75261f67454</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAkr3qrBnfi8aQlWmDji0HOHjrwtZbE6mM</string>
+    <string name="google_storage_bucket" translatable="false">fir-ml-dicoding-7843a.firebasestorage.app</string>
+    <string name="project_id" translatable="false">fir-ml-dicoding-7843a</string>
+</resources>
