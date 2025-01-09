@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.dicoding.picodiploma.mycamera.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.dicoding.picodiploma.mycamera.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mycamera.app-mergeDebugResources-3:/layout/activity_result.xml",
+        "source": "com.dicoding.picodiploma.mycamera.app-main-6:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mycamera.app-mergeDebugResources-3:/layout/activity_camera.xml",
+        "source": "com.dicoding.picodiploma.mycamera.app-main-6:/layout/activity_camera.xml"
+    }
+]
