@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.dicoding.smartreply.app-mergeDebugResources-35:/layout/item_message_local.xml",
+        "source": "com.dicoding.smartreply.app-main-38:/layout/item_message_local.xml"
+    },
+    {
+        "merged": "com.dicoding.smartreply.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.dicoding.smartreply.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dicoding.smartreply.app-mergeDebugResources-35:/layout/item_options_smartreply.xml",
+        "source": "com.dicoding.smartreply.app-main-38:/layout/item_options_smartreply.xml"
+    },
+    {
+        "merged": "com.dicoding.smartreply.app-mergeDebugResources-35:/layout/item_message_another_user.xml",
+        "source": "com.dicoding.smartreply.app-main-38:/layout/item_message_another_user.xml"
+    },
+    {
+        "merged": "com.dicoding.smartreply.app-mergeDebugResources-35:/layout/fragment_chat.xml",
+        "source": "com.dicoding.smartreply.app-main-38:/layout/fragment_chat.xml"
+    }
+]

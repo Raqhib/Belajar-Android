@@ -1,0 +1,3 @@
+com.dicoding.smartreply.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

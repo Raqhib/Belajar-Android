@@ -1,0 +1,39 @@
+com.dicoding.smartreply.app-savedstate-1.2.1-0 C:\Users\Lenovo\.gradle\caches\transforms-3\0b55a9d96f64d0dc2fabf56dd6cc16cd\transformed\savedstate-1.2.1\res
+com.dicoding.smartreply.app-startup-runtime-1.1.1-1 C:\Users\Lenovo\.gradle\caches\transforms-3\0d2c5eac3751462b720a4fdec745a5b2\transformed\startup-runtime-1.1.1\res
+com.dicoding.smartreply.app-lifecycle-livedata-2.6.2-2 C:\Users\Lenovo\.gradle\caches\transforms-3\17aad6d688509f7bf9de50fb4b187953\transformed\lifecycle-livedata-2.6.2\res
+com.dicoding.smartreply.app-play-services-base-18.1.0-3 C:\Users\Lenovo\.gradle\caches\transforms-3\1fd701eb544627ec2ce73b2822e943d8\transformed\play-services-base-18.1.0\res
+com.dicoding.smartreply.app-lifecycle-livedata-core-ktx-2.6.2-4 C:\Users\Lenovo\.gradle\caches\transforms-3\23db9a1df4959eb6dedbd309c515d3c9\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.dicoding.smartreply.app-recyclerview-1.1.0-5 C:\Users\Lenovo\.gradle\caches\transforms-3\365f3e96359250a7e02940944dd94514\transformed\recyclerview-1.1.0\res
+com.dicoding.smartreply.app-core-ktx-1.12.0-6 C:\Users\Lenovo\.gradle\caches\transforms-3\3975da57c089fcf4002f1bc6ba8c4cec\transformed\core-ktx-1.12.0\res
+com.dicoding.smartreply.app-lifecycle-runtime-2.6.2-7 C:\Users\Lenovo\.gradle\caches\transforms-3\3cb69a11fef561b54e23b331181fe039\transformed\lifecycle-runtime-2.6.2\res
+com.dicoding.smartreply.app-lifecycle-livedata-core-2.6.2-8 C:\Users\Lenovo\.gradle\caches\transforms-3\3ffbf5d9cc7129494f7fc6a0b5ca58d6\transformed\lifecycle-livedata-core-2.6.2\res
+com.dicoding.smartreply.app-coordinatorlayout-1.1.0-9 C:\Users\Lenovo\.gradle\caches\transforms-3\47afb22697d56b65167c971786ed95c5\transformed\coordinatorlayout-1.1.0\res
+com.dicoding.smartreply.app-lifecycle-process-2.6.2-10 C:\Users\Lenovo\.gradle\caches\transforms-3\4b21525eb9800ed273db77beb7cd9267\transformed\lifecycle-process-2.6.2\res
+com.dicoding.smartreply.app-core-1.12.0-11 C:\Users\Lenovo\.gradle\caches\transforms-3\4d13162283d09b9c9bedcbf64eea8d38\transformed\core-1.12.0\res
+com.dicoding.smartreply.app-lifecycle-livedata-ktx-2.6.2-12 C:\Users\Lenovo\.gradle\caches\transforms-3\5afc0c1e0c1919fd83ab80fa60894063\transformed\lifecycle-livedata-ktx-2.6.2\res
+com.dicoding.smartreply.app-constraintlayout-2.1.4-13 C:\Users\Lenovo\.gradle\caches\transforms-3\5fdcdfb84c547644513635967fe0cec1\transformed\constraintlayout-2.1.4\res
+com.dicoding.smartreply.app-activity-1.8.0-14 C:\Users\Lenovo\.gradle\caches\transforms-3\605327ac06674e17a3a96e6454ae281e\transformed\activity-1.8.0\res
+com.dicoding.smartreply.app-lifecycle-viewmodel-2.6.2-15 C:\Users\Lenovo\.gradle\caches\transforms-3\67cd71962faec8a8f9d908b24db209ed\transformed\lifecycle-viewmodel-2.6.2\res
+com.dicoding.smartreply.app-transition-1.2.0-16 C:\Users\Lenovo\.gradle\caches\transforms-3\6efd9a45e9f05ba96260ca7b8506d438\transformed\transition-1.2.0\res
+com.dicoding.smartreply.app-profileinstaller-1.3.0-17 C:\Users\Lenovo\.gradle\caches\transforms-3\6f6664ef7d9272f9ecff2c30e1249d51\transformed\profileinstaller-1.3.0\res
+com.dicoding.smartreply.app-drawerlayout-1.1.1-18 C:\Users\Lenovo\.gradle\caches\transforms-3\83e11ceec8c26073f4771e648bfc1c66\transformed\drawerlayout-1.1.1\res
+com.dicoding.smartreply.app-material-1.10.0-19 C:\Users\Lenovo\.gradle\caches\transforms-3\8a45001ddfabd3759e99206208a4d21d\transformed\material-1.10.0\res
+com.dicoding.smartreply.app-annotation-experimental-1.3.0-20 C:\Users\Lenovo\.gradle\caches\transforms-3\91114efd43b3626b68fc39325cabc613\transformed\annotation-experimental-1.3.0\res
+com.dicoding.smartreply.app-emoji2-views-helper-1.2.0-21 C:\Users\Lenovo\.gradle\caches\transforms-3\9ce9cc9ec7a9ad1d10874dacacdbb4d1\transformed\emoji2-views-helper-1.2.0\res
+com.dicoding.smartreply.app-play-services-basement-18.1.0-22 C:\Users\Lenovo\.gradle\caches\transforms-3\a37b236d6a2dc024c16f34bd8c8720a1\transformed\play-services-basement-18.1.0\res
+com.dicoding.smartreply.app-lifecycle-viewmodel-savedstate-2.6.2-23 C:\Users\Lenovo\.gradle\caches\transforms-3\be631a5d1ea2832205cc96ca2fa28806\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.dicoding.smartreply.app-appcompat-resources-1.6.1-24 C:\Users\Lenovo\.gradle\caches\transforms-3\c3e6ca4432e3b1728bbb62dc25de4dd6\transformed\appcompat-resources-1.6.1\res
+com.dicoding.smartreply.app-viewpager2-1.0.0-25 C:\Users\Lenovo\.gradle\caches\transforms-3\d41808bc4d05ea03a5d923d74544d25d\transformed\viewpager2-1.0.0\res
+com.dicoding.smartreply.app-fragment-1.3.6-26 C:\Users\Lenovo\.gradle\caches\transforms-3\d8c51cc72187ec3386ede10b5dc6e424\transformed\fragment-1.3.6\res
+com.dicoding.smartreply.app-core-runtime-2.2.0-27 C:\Users\Lenovo\.gradle\caches\transforms-3\eab0c2181a799b1ab26cf14e7d4d3da9\transformed\core-runtime-2.2.0\res
+com.dicoding.smartreply.app-cardview-1.0.0-28 C:\Users\Lenovo\.gradle\caches\transforms-3\f1ad6923895a33a889fdbca66076d606\transformed\cardview-1.0.0\res
+com.dicoding.smartreply.app-lifecycle-viewmodel-ktx-2.6.2-29 C:\Users\Lenovo\.gradle\caches\transforms-3\f5627e78a847751e74dab6cf718706b4\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.dicoding.smartreply.app-emoji2-1.2.0-30 C:\Users\Lenovo\.gradle\caches\transforms-3\fd2e1203a98305522125a8a0138bcbc0\transformed\emoji2-1.2.0\res
+com.dicoding.smartreply.app-appcompat-1.6.1-31 C:\Users\Lenovo\.gradle\caches\transforms-3\ff3e7a6cbd6877b655429719bd7e51c8\transformed\appcompat-1.6.1\res
+com.dicoding.smartreply.app-pngs-32 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan Generative AI (Smart Reply) - starter\app\build\generated\res\pngs\debug
+com.dicoding.smartreply.app-resValues-33 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan Generative AI (Smart Reply) - starter\app\build\generated\res\resValues\debug
+com.dicoding.smartreply.app-packageDebugResources-34 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan Generative AI (Smart Reply) - starter\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.dicoding.smartreply.app-packageDebugResources-35 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan Generative AI (Smart Reply) - starter\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.dicoding.smartreply.app-merged_res-36 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan Generative AI (Smart Reply) - starter\app\build\intermediates\merged_res\debug
+com.dicoding.smartreply.app-debug-37 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan Generative AI (Smart Reply) - starter\app\src\debug\res
+com.dicoding.smartreply.app-main-38 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan Generative AI (Smart Reply) - starter\app\src\main\res
