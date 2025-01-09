@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362169794109",
+    "project_id": "fir-ml-dicoding-7843a",
+    "storage_bucket": "fir-ml-dicoding-7843a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362169794109:android:d846424040a75261f67454",
+        "android_client_info": {
+          "package_name": "id.co.mondo.latihantfliteprediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr3qrBnfi8aQlWmDji0HOHjrwtZbE6mM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
