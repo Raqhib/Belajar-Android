@@ -1,0 +1,241 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dicoding.picodiploma.mycamera"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-feature android:name="android.hardware.camera" />
+11-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:5:5-60
+11-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:5:19-57
+12
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:6:5-65
+13-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:6:22-62
+14    <uses-permission
+14-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:7:5-9:38
+15        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+15-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:8:9-65
+16        android:maxSdkVersion="28" />
+16-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:9:9-35
+17
+18    <permission
+18-->[androidx.core:core:1.12.0] C:\Users\Lenovo\.gradle\caches\transforms-3\32691eba174d3a51f8a4a5955c326e03\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+19        android:name="com.dicoding.picodiploma.mycamera.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.12.0] C:\Users\Lenovo\.gradle\caches\transforms-3\32691eba174d3a51f8a4a5955c326e03\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.12.0] C:\Users\Lenovo\.gradle\caches\transforms-3\32691eba174d3a51f8a4a5955c326e03\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.dicoding.picodiploma.mycamera.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.12.0] C:\Users\Lenovo\.gradle\caches\transforms-3\32691eba174d3a51f8a4a5955c326e03\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.12.0] C:\Users\Lenovo\.gradle\caches\transforms-3\32691eba174d3a51f8a4a5955c326e03\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+23    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+24    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+25
+26    <application
+26-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:11:5-59:19
+27        android:allowBackup="true"
+27-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:12:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.12.0] C:\Users\Lenovo\.gradle\caches\transforms-3\32691eba174d3a51f8a4a5955c326e03\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+29        android:debuggable="true"
+30        android:extractNativeLibs="false"
+31        android:icon="@mipmap/ic_launcher"
+31-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:13:9-43
+32        android:label="@string/app_name"
+32-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:14:9-41
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:15:9-54
+34        android:supportsRtl="true"
+34-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:16:9-35
+35        android:testOnly="true"
+36        android:theme="@style/Theme.MyCamera" >
+36-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:17:9-46
+37        <activity
+37-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:18:9-20:40
+38            android:name="com.dicoding.picodiploma.mycamera.ResultActivity"
+38-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:19:13-43
+39            android:exported="false" />
+39-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:20:13-37
+40        <activity
+40-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:22:9-24:39
+41            android:name="com.dicoding.picodiploma.mycamera.CameraActivity"
+41-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:23:13-43
+42            android:exported="false" />
+42-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:24:13-37
+43        <activity
+43-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:26:9-34:20
+44            android:name="com.dicoding.picodiploma.mycamera.MainActivity"
+44-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:27:13-41
+45            android:exported="true" >
+45-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:28:13-36
+46            <intent-filter>
+46-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:29:13-33:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:30:17-69
+47-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:30:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:32:17-77
+49-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:32:27-74
+50            </intent-filter>
+51        </activity>
+52
+53        <provider
+54            android:name="androidx.core.content.FileProvider"
+54-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:37:13-62
+55            android:authorities="com.dicoding.picodiploma.mycamera.fileprovider"
+55-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:38:13-64
+56            android:exported="false"
+56-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:39:13-37
+57            android:grantUriPermissions="true" >
+57-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:40:13-47
+58            <meta-data
+58-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:41:13-43:54
+59                android:name="android.support.FILE_PROVIDER_PATHS"
+59-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:42:17-67
+60                android:resource="@xml/file_paths" />
+60-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:43:17-51
+61        </provider> <!-- Trigger Google Play services to install the backported photo picker module. -->
+62        <!-- suppress AndroidDomInspection -->
+63        <service
+63-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:46:9-58:19
+64            android:name="com.google.android.gms.metadata.ModuleDependencies"
+64-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:47:13-78
+65            android:enabled="false"
+65-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:48:13-36
+66            android:exported="false" >
+66-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:49:13-37
+67            <intent-filter>
+67-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:51:13-53:29
+68                <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" />
+68-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:52:17-94
+68-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:52:25-91
+69            </intent-filter>
+70
+71            <meta-data
+71-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:55:13-57:36
+72                android:name="photopicker_activity:0:required"
+72-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:56:17-63
+73                android:value="" />
+73-->D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\AndroidManifest.xml:57:17-33
+74            <meta-data
+74-->[com.google.android.gms:play-services-tflite-gpu:16.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\8c9371927dab688784b416d5fa01f7f8\transformed\jetified-play-services-tflite-gpu-16.2.0\AndroidManifest.xml:18:13-20:36
+75                android:name="tflite_gpu_dynamite:222612000:required"
+75-->[com.google.android.gms:play-services-tflite-gpu:16.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\8c9371927dab688784b416d5fa01f7f8\transformed\jetified-play-services-tflite-gpu-16.2.0\AndroidManifest.xml:19:17-70
+76                android:value="" />
+76-->[com.google.android.gms:play-services-tflite-gpu:16.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\8c9371927dab688784b416d5fa01f7f8\transformed\jetified-play-services-tflite-gpu-16.2.0\AndroidManifest.xml:20:17-33
+77            <meta-data
+77-->[com.google.android.gms:play-services-tflite-impl:16.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\705f67dca7c8e485e8338d239e590eb9\transformed\jetified-play-services-tflite-impl-16.1.0\AndroidManifest.xml:18:13-20:36
+78                android:name="tflite_dynamite:3:required"
+78-->[com.google.android.gms:play-services-tflite-impl:16.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\705f67dca7c8e485e8338d239e590eb9\transformed\jetified-play-services-tflite-impl-16.1.0\AndroidManifest.xml:19:17-58
+79                android:value="" />
+79-->[com.google.android.gms:play-services-tflite-impl:16.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\705f67dca7c8e485e8338d239e590eb9\transformed\jetified-play-services-tflite-impl-16.1.0\AndroidManifest.xml:20:17-33
+80        </service>
+81        <!--
+82        Service for holding metadata. Cannot be instantiated.
+83        Metadata will be merged from other manifests.
+84        -->
+85        <service
+85-->[androidx.camera:camera-core:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\f183ffee870f050be1f66344785c00b1\transformed\jetified-camera-core-1.3.0\AndroidManifest.xml:29:9-33:78
+86            android:name="androidx.camera.core.impl.MetadataHolderService"
+86-->[androidx.camera:camera-core:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\f183ffee870f050be1f66344785c00b1\transformed\jetified-camera-core-1.3.0\AndroidManifest.xml:30:13-75
+87            android:enabled="false"
+87-->[androidx.camera:camera-core:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\f183ffee870f050be1f66344785c00b1\transformed\jetified-camera-core-1.3.0\AndroidManifest.xml:31:13-36
+88            android:exported="false" >
+88-->[androidx.camera:camera-core:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\f183ffee870f050be1f66344785c00b1\transformed\jetified-camera-core-1.3.0\AndroidManifest.xml:32:13-37
+89            <meta-data
+89-->[androidx.camera:camera-camera2:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\54e79cbbdb189c4fa6731c53054960b2\transformed\jetified-camera-camera2-1.3.0\AndroidManifest.xml:30:13-32:89
+90                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+90-->[androidx.camera:camera-camera2:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\54e79cbbdb189c4fa6731c53054960b2\transformed\jetified-camera-camera2-1.3.0\AndroidManifest.xml:31:17-103
+91                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+91-->[androidx.camera:camera-camera2:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\54e79cbbdb189c4fa6731c53054960b2\transformed\jetified-camera-camera2-1.3.0\AndroidManifest.xml:32:17-86
+92        </service>
+93
+94        <activity
+94-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\d3e3e61226954d5cacc9e9cc51a5d8c7\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+95            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+95-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\d3e3e61226954d5cacc9e9cc51a5d8c7\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+96            android:exported="false"
+96-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\d3e3e61226954d5cacc9e9cc51a5d8c7\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+97-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\d3e3e61226954d5cacc9e9cc51a5d8c7\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+98
+99        <meta-data
+99-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\abf3326b8b9985b65b6234b2bb9ff4da\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+100            android:name="com.google.android.gms.version"
+100-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\abf3326b8b9985b65b6234b2bb9ff4da\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+101            android:value="@integer/google_play_services_version" />
+101-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\abf3326b8b9985b65b6234b2bb9ff4da\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+102
+103        <provider
+103-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\2af80ca61d75b4f837ec0517ac7453e8\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+104            android:name="androidx.startup.InitializationProvider"
+104-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\2af80ca61d75b4f837ec0517ac7453e8\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+105            android:authorities="com.dicoding.picodiploma.mycamera.androidx-startup"
+105-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\2af80ca61d75b4f837ec0517ac7453e8\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+106            android:exported="false" >
+106-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\2af80ca61d75b4f837ec0517ac7453e8\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+107            <meta-data
+107-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\2af80ca61d75b4f837ec0517ac7453e8\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+108                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+108-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\2af80ca61d75b4f837ec0517ac7453e8\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+109                android:value="androidx.startup" />
+109-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\2af80ca61d75b4f837ec0517ac7453e8\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+110            <meta-data
+110-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Lenovo\.gradle\caches\transforms-3\8aadc5d4231136577ebfa049326d6f59\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+111                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+111-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Lenovo\.gradle\caches\transforms-3\8aadc5d4231136577ebfa049326d6f59\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+112                android:value="androidx.startup" />
+112-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Lenovo\.gradle\caches\transforms-3\8aadc5d4231136577ebfa049326d6f59\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+113            <meta-data
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+114                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+115                android:value="androidx.startup" />
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+116        </provider>
+117
+118        <receiver
+118-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+119            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+120            android:directBootAware="false"
+120-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+121            android:enabled="true"
+121-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+122            android:exported="true"
+122-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+123            android:permission="android.permission.DUMP" >
+123-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+124            <intent-filter>
+124-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+125                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+125-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+125-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+126            </intent-filter>
+127            <intent-filter>
+127-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+128                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+128-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+128-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+129            </intent-filter>
+130            <intent-filter>
+130-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+131                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+131-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+131-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+132            </intent-filter>
+133            <intent-filter>
+133-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+134                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+134-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+134-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+135            </intent-filter>
+136        </receiver>
+137    </application>
+138
+139</manifest>

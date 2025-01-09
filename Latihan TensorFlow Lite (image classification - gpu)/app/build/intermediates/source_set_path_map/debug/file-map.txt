@@ -1,0 +1,41 @@
+com.dicoding.picodiploma.mycamera.app-jetified-activity-1.8.0-0 C:\Users\Lenovo\.gradle\caches\transforms-3\06fe53fb9dd831bf5f4295c5d1753e47\transformed\jetified-activity-1.8.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-annotation-experimental-1.3.1-1 C:\Users\Lenovo\.gradle\caches\transforms-3\1382c8d601c29c24e8a5392acbd25d78\transformed\jetified-annotation-experimental-1.3.1\res
+com.dicoding.picodiploma.mycamera.app-jetified-core-ktx-1.12.0-2 C:\Users\Lenovo\.gradle\caches\transforms-3\1729eab7a7b7c4336a9f0dba8a963692\transformed\jetified-core-ktx-1.12.0\res
+com.dicoding.picodiploma.mycamera.app-coordinatorlayout-1.1.0-3 C:\Users\Lenovo\.gradle\caches\transforms-3\1c58896e034bd4b006abc504e0501613\transformed\coordinatorlayout-1.1.0\res
+com.dicoding.picodiploma.mycamera.app-material-1.10.0-4 C:\Users\Lenovo\.gradle\caches\transforms-3\218b0cac9535ad957c55e2692699824e\transformed\material-1.10.0\res
+com.dicoding.picodiploma.mycamera.app-core-runtime-2.2.0-5 C:\Users\Lenovo\.gradle\caches\transforms-3\2195df5af958c9d4e7dc05cef942071a\transformed\core-runtime-2.2.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-emoji2-1.2.0-6 C:\Users\Lenovo\.gradle\caches\transforms-3\2af80ca61d75b4f837ec0517ac7453e8\transformed\jetified-emoji2-1.2.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-camera-video-1.3.0-7 C:\Users\Lenovo\.gradle\caches\transforms-3\2de08bd595f44bb63829f0f63750ef2b\transformed\jetified-camera-video-1.3.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-viewpager2-1.0.0-8 C:\Users\Lenovo\.gradle\caches\transforms-3\3079e199d786e9e417e923e9ed545a99\transformed\jetified-viewpager2-1.0.0\res
+com.dicoding.picodiploma.mycamera.app-core-1.12.0-9 C:\Users\Lenovo\.gradle\caches\transforms-3\32691eba174d3a51f8a4a5955c326e03\transformed\core-1.12.0\res
+com.dicoding.picodiploma.mycamera.app-drawerlayout-1.1.1-10 C:\Users\Lenovo\.gradle\caches\transforms-3\330dba54a34f773115d517158ba3ffc4\transformed\drawerlayout-1.1.1\res
+com.dicoding.picodiploma.mycamera.app-lifecycle-livedata-2.6.1-11 C:\Users\Lenovo\.gradle\caches\transforms-3\3395d07974ae0daa0ece63ef210afe15\transformed\lifecycle-livedata-2.6.1\res
+com.dicoding.picodiploma.mycamera.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-12 C:\Users\Lenovo\.gradle\caches\transforms-3\42b7ba7be190a93826fc0f8d04e83633\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.dicoding.picodiploma.mycamera.app-jetified-appcompat-resources-1.6.1-13 C:\Users\Lenovo\.gradle\caches\transforms-3\42cfcca57cb1b8d1402a7c01f4b66295\transformed\jetified-appcompat-resources-1.6.1\res
+com.dicoding.picodiploma.mycamera.app-jetified-camera-lifecycle-1.3.0-14 C:\Users\Lenovo\.gradle\caches\transforms-3\50566876cce77ca0d4cdacad92bcc2f1\transformed\jetified-camera-lifecycle-1.3.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-camera-camera2-1.3.0-15 C:\Users\Lenovo\.gradle\caches\transforms-3\54e79cbbdb189c4fa6731c53054960b2\transformed\jetified-camera-camera2-1.3.0\res
+com.dicoding.picodiploma.mycamera.app-appcompat-1.6.1-16 C:\Users\Lenovo\.gradle\caches\transforms-3\598e459387d649183e2354c7260595d6\transformed\appcompat-1.6.1\res
+com.dicoding.picodiploma.mycamera.app-transition-1.2.0-17 C:\Users\Lenovo\.gradle\caches\transforms-3\6d1314e0a3a05520fc4226733aa45178\transformed\transition-1.2.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-startup-runtime-1.1.1-18 C:\Users\Lenovo\.gradle\caches\transforms-3\7ac02e0843f14b65e3f305929010f2b8\transformed\jetified-startup-runtime-1.1.1\res
+com.dicoding.picodiploma.mycamera.app-constraintlayout-2.1.4-19 C:\Users\Lenovo\.gradle\caches\transforms-3\8a18b2e1b01af41b714ac9c0ee4c7122\transformed\constraintlayout-2.1.4\res
+com.dicoding.picodiploma.mycamera.app-jetified-lifecycle-process-2.6.1-20 C:\Users\Lenovo\.gradle\caches\transforms-3\8aadc5d4231136577ebfa049326d6f59\transformed\jetified-lifecycle-process-2.6.1\res
+com.dicoding.picodiploma.mycamera.app-fragment-1.3.6-21 C:\Users\Lenovo\.gradle\caches\transforms-3\8f50d3c81f7407a2f75ac1358ae5129f\transformed\fragment-1.3.6\res
+com.dicoding.picodiploma.mycamera.app-jetified-savedstate-1.2.1-22 C:\Users\Lenovo\.gradle\caches\transforms-3\a389096dcbf4d0fb1fcf9f871f011d51\transformed\jetified-savedstate-1.2.1\res
+com.dicoding.picodiploma.mycamera.app-jetified-play-services-basement-18.1.0-23 C:\Users\Lenovo\.gradle\caches\transforms-3\abf3326b8b9985b65b6234b2bb9ff4da\transformed\jetified-play-services-basement-18.1.0\res
+com.dicoding.picodiploma.mycamera.app-lifecycle-viewmodel-2.6.1-24 C:\Users\Lenovo\.gradle\caches\transforms-3\b59eb46bbb07e6a2a363281ddd1528bf\transformed\lifecycle-viewmodel-2.6.1\res
+com.dicoding.picodiploma.mycamera.app-recyclerview-1.1.0-25 C:\Users\Lenovo\.gradle\caches\transforms-3\bd51d71341ad5934002fed42c435d97f\transformed\recyclerview-1.1.0\res
+com.dicoding.picodiploma.mycamera.app-lifecycle-livedata-core-2.6.1-26 C:\Users\Lenovo\.gradle\caches\transforms-3\bd95e0cb1b37d63007118e5e50dae294\transformed\lifecycle-livedata-core-2.6.1\res
+com.dicoding.picodiploma.mycamera.app-jetified-profileinstaller-1.3.0-27 C:\Users\Lenovo\.gradle\caches\transforms-3\bdd5eb5e5bb8fd2bd27603b436e77e9c\transformed\jetified-profileinstaller-1.3.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-play-services-base-18.1.0-28 C:\Users\Lenovo\.gradle\caches\transforms-3\d3e3e61226954d5cacc9e9cc51a5d8c7\transformed\jetified-play-services-base-18.1.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-emoji2-views-helper-1.2.0-29 C:\Users\Lenovo\.gradle\caches\transforms-3\d9a5cd5caaa2c5fe0f6b77b02339c21f\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.dicoding.picodiploma.mycamera.app-cardview-1.0.0-30 C:\Users\Lenovo\.gradle\caches\transforms-3\db2debef59bd0ae74b5ddf4a28a311ca\transformed\cardview-1.0.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-camera-core-1.3.0-31 C:\Users\Lenovo\.gradle\caches\transforms-3\f183ffee870f050be1f66344785c00b1\transformed\jetified-camera-core-1.3.0\res
+com.dicoding.picodiploma.mycamera.app-lifecycle-runtime-2.6.1-32 C:\Users\Lenovo\.gradle\caches\transforms-3\f20f360c01dd74f5534fc1a10a06748c\transformed\lifecycle-runtime-2.6.1\res
+com.dicoding.picodiploma.mycamera.app-jetified-camera-view-1.3.0-33 C:\Users\Lenovo\.gradle\caches\transforms-3\f548e6a66a937f77a3f84baf2493e5ad\transformed\jetified-camera-view-1.3.0\res
+com.dicoding.picodiploma.mycamera.app-pngs-34 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\build\generated\res\pngs\debug
+com.dicoding.picodiploma.mycamera.app-resValues-35 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\build\generated\res\resValues\debug
+com.dicoding.picodiploma.mycamera.app-mergeDebugResources-36 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.dicoding.picodiploma.mycamera.app-mergeDebugResources-37 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.dicoding.picodiploma.mycamera.app-merged_res-38 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\build\intermediates\merged_res\debug
+com.dicoding.picodiploma.mycamera.app-debug-39 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\debug\res
+com.dicoding.picodiploma.mycamera.app-main-40 D:\RAQHIB ATAILLAH\BANGKIT\Android\Latihan TensorFlow Lite (image classification - gpu)\app\src\main\res
